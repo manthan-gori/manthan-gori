@@ -13,7 +13,9 @@
   <a href="mailto:manthangori9029@gmail.com"><img src="https://img.shields.io/badge/Email-manthangori9029%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="100%">
+</p>
 
 <h2>What I Do</h2>
 
