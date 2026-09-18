@@ -13,7 +13,7 @@
   <a href="mailto:manthangori9029@gmail.com"><img src="https://img.shields.io/badge/Email-manthangori9029%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-<hr>
+<br>
 
 <h2>What I Do</h2>
 
