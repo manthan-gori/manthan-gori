@@ -1,12 +1,16 @@
 <h1 align="center">Hi, I'm Manthan 👋</h1>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-YOUR_USERNAME-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <strong>Full-Stack Developer · AI Engineering · Python · FastAPI · React · PostgreSQL</strong>
+</p>
+
+<p align="center">
+  Building practical projects across full-stack development, backend engineering, and AI automation.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manthan-gori/"><img src="https://img.shields.io/badge/LinkedIn-Manthan%20Gori-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="mailto:manthangori9029@gmail.com"><img src="https://img.shields.io/badge/Email-manthangori9029%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 <!--
