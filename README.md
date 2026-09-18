@@ -1,5 +1,14 @@
 <h1 align="center">Hi, I'm Manthan 👋</h1>
 
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-YOUR_USERNAME-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 <!--
 **manthan-gori/manthan-gori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
