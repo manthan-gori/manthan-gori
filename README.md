@@ -5,10 +5,6 @@
 </h3>
 
 <p align="center">
-  Building practical projects across full-stack development, backend engineering, and AI automation.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/manthan-gori/"><img src="https://img.shields.io/badge/LinkedIn-Manthan%20Gori-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="mailto:manthangori9029@gmail.com"><img src="https://img.shields.io/badge/Email-manthangori9029%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
@@ -19,13 +15,11 @@
 
 <h2>What I Do</h2>
 
-<ul>
-  <li>Build full-stack applications using React, FastAPI, and PostgreSQL</li>
-  <li>Develop backend APIs and automation tools with Python</li>
-  <li>Explore AI engineering, LLM applications, and MCP</li>
-  <li>Build practical developer tools and open-source projects</li>
-  <li>Learn, experiment, and ship consistently</li>
-</ul>
+- Build full-stack applications using React, FastAPI, and PostgreSQL
+- Develop backend APIs and automation tools with Python
+- Explore AI engineering, LLM applications, and MCP
+- Build practical developer tools and open-source projects
+- Learn, experiment, and ship consistently
 
 <!--
 **manthan-gori/manthan-gori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
